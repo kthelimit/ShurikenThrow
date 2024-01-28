@@ -1,4 +1,4 @@
-#Sun Jan 28 16:39:38 KST 2024
-base.0=D\:\\UnityProject\\ShurikenThrow\\ShurikenThrow\\ShurikenThrow\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+#Sun Jan 28 22:18:55 KST 2024
+base.0=D\:\\UnityProject\\ShurikenThrow\\ShurikenThrow\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

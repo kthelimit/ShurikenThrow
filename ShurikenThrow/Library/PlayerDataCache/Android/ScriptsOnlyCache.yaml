@@ -45,19 +45,19 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 17644}
+      Script: {instanceID: 17638}
     - Class: 114
-      Script: {instanceID: 17846}
+      Script: {instanceID: 17840}
     - Class: 114
-      Script: {instanceID: 20286}
+      Script: {instanceID: 18858}
     - Class: 114
-      Script: {instanceID: 20580}
+      Script: {instanceID: 20282}
     - Class: 114
-      Script: {instanceID: 21042}
+      Script: {instanceID: 20576}
     - Class: 114
-      Script: {instanceID: 24290}
+      Script: {instanceID: 21038}
     - Class: 114
-      Script: {instanceID: 24416}
+      Script: {instanceID: 21428}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -397,6 +397,12 @@ ScriptsOnlyBuild:
     className: UnityOnPointerExitMessageListener
   - hash:
       serializedVersion: 2
+      Hash: 74ec1e97e2fb974dac7ce19e1f97f529
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: ShurikenThrow
+  - hash:
+      serializedVersion: 2
       Hash: b747f5d40674055dd70e18552f1b0447
     assemblyName: UnityEngine.UI
     namespaceName: UnityEngine.UI
@@ -721,6 +727,12 @@ ScriptsOnlyBuild:
     className: PlayableTrack
   - hash:
       serializedVersion: 2
+      Hash: c0310dfc3fad7ae60e2312934a4048c7
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: ShurikenController
+  - hash:
+      serializedVersion: 2
       Hash: 4878e735441f4041539853759559c86f
     assemblyName: UnityEngine.UI
     namespaceName: UnityEngine.UI
@@ -899,19 +911,7 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core
     namespaceName: Unity.VisualScripting
     className: UnityOnSliderValueChangedMessageListener
-  - hash:
-      serializedVersion: 2
-      Hash: 74ec1e97e2fb974dac7ce19e1f97f529
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: ShurikenThrow
-  - hash:
-      serializedVersion: 2
-      Hash: c0310dfc3fad7ae60e2312934a4048c7
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: ShurikenController
   platform: 13
   scenePathNames:
   - Assets/Scenes/ShurikenThrow.unity
-  playerPath: D:/UnityProject/ShurikenThrow/ShurikenThrow/ShurikenThrow_20240128_HaneulYun.apk
+  playerPath: D:/UnityProject/ShurikenThrow/ShurikenThrow_20240128_HaneulYun.apk
