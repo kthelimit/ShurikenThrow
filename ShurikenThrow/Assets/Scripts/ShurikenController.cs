@@ -25,7 +25,7 @@ public class ShurikenController : MonoBehaviour
         //위로 발사하기
         this.gameObject.transform.Translate(new Vector3(0, speed, 0) * Time.deltaTime, Space.World);
         //표창을 회전시키기
-        this.gameObject.transform.Rotate(new Vector3(0, 0, speed * rotateMutiply) * Time.deltaTime, Space.World);
+        this.gameObject.transform.Rotate(new Vector3(0, 0, speed * rotateMutiply) * Time.deltaTime);
         //감속
         speed *= attenuation;
     }
